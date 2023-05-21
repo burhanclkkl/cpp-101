@@ -1,0 +1,4 @@
+﻿  day_01.cpp
+C:\Users\burha\Desktop\Cpp tutorial\day_01\day_01.cpp(18,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\burha\Desktop\Cpp tutorial\day_01\day_01.cpp(18,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  day_01.vcxproj -> C:\Users\burha\Desktop\Cpp tutorial\day_01\x64\Debug\day_01.exe

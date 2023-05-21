@@ -1,0 +1,4 @@
+﻿  day_02.cpp
+C:\Users\burha\Desktop\Cpp tutorial\day_02\day_02.cpp(17,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\burha\Desktop\Cpp tutorial\day_02\day_02.cpp(18,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  day_02.vcxproj -> C:\Users\burha\Desktop\Cpp tutorial\day_01\x64\Debug\day_02.exe
